@@ -112,6 +112,7 @@ a:hover {
     border-top-left-radius: 20px;
     border-top-right-radius: 20px;
     border: dotted 1px #000000;
+    height: fit-content;
 }
 h1 {
     text-align: center;

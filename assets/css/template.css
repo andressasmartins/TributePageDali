@@ -168,7 +168,7 @@ h2 {
     border: dotted 1px #000000;
 }
 .gallery_flexcontainer .vertical:hover {
-    width:350px ;
+    transform: scale(1.01);  
 }
 .gallery_flexcontainer .vertical {
     width: 325px;
@@ -181,7 +181,7 @@ h2 {
     border: solid 1px #000000;
 }
 .gallery_flexcontainer .horizontal:hover {
-    width:475px;  
+    transform: scale(1.01);  
 }
 .infobox {
     background: #85351e;
@@ -283,11 +283,11 @@ address a:hover {
         align-items: center;
     }
     .gallery_flexcontainer .horizontal {
-        width: 220px; 
+        width: 215px; 
+        margin:5px;
     }
     .gallery_flexcontainer .vertical {
-        width: 200px;
-        height: 250px;  
+        width: 170px;
     }
     .copy {
        font-size: 11px;

@@ -1,4 +1,4 @@
 ## Projeto Pagina de Tributo à Salvador Dalí.
-Página em homenagem a Salvador Dalí.
-Foram utilizados: HTML e CSS.
-Totalmente responsivo para diferentes tamanhos de telas.
+Página em homenagem a Salvador Dalí. <br/>
+Foram utilizados: HTML e CSS. <br/>
+Totalmente responsivo para diferentes tamanhos de telas. <br/>

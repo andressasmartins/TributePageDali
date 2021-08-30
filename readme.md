@@ -1,1 +1,1 @@
-Projeto de Tributo à Salvador Dalí
+Projeto Pagina de Tributo à Salvador Dalí
